@@ -1,0 +1,11 @@
+1)	Odoo te permite el acceso a modulos ERP para tus fines ya sean lucrativos o no.
+2)	PostgressSql no permitio la instalacion del admin PGAdmin V.4 por lo que fue una opcion viable la instalacion de SQLEctron.
+3)	SQLEctron tiene las mismas caracteristicas de PGAdmin V.4 solo que con otra interfaz
+4)	Se creo una cuenta en Odoo con los derechos de administrador y el acceso total a todas las apps.
+5)	SAP All in One es el ERP más utilizado( en grandes empresas), ya que tiene una gran potencia.
+6)	Odoo (conocido anteriormente como OpenERP y anteriormente como TinyERP) es un sistema de ERP integrado de código abierto actualmente 
+producido por la empresa belga Odoo S.A. El fabricante declara su producto como una alternativa de código abierto a SAP ERP y Microsoft Dynamics.
+7)	Los módulos de Odoo, en su mayoría, están cubiertos por la licencia AGPL y algunas partes utilizan una derivada de la licencia Mozilla Public License.
+8)	OpenERP no requiere ningún pago de licencias para ser utilizado, a diferencia de los software más usados del mercado.
+9)	Mientras se respeten los términos de la licencia, la modificación directa del programa es posible.
+10)	A partir de la versión 6.0, la actual Odoo S.A. distribuye una versión de OpenERP como servicio.
