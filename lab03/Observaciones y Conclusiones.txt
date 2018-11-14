@@ -1,0 +1,10 @@
+1)	Se instaló el modulo CRM y dentro de éste se creó una compañía manualmente, además se creó un canal de venta con 3 empleados y se le dio el nombre de ventas directas.
+2)	Se crearon iniciativas de manera directa las cuales convertimos en oportunidades.
+3)	Otra manera de crear iniciativas es a través de un sitio web, implementando la interfaz de Contacto e ingresando datos en dicho formulario para luego enviarlo, los datos enviados aparecerán como una iniciativa para luego convertirse en una oportunidad.
+4)	Las oportunidades tendrán una descripción de la compañía la cual solicita tus servicios a parte de tener una calificación para la respuesta inmediata o prolongada sobre la solicitud.
+5)	El sitio web puede ser modificado desde cero, te brinda “plantillas” y herramientas extra como Contáctenos Blog y otros complementos, los cuales deben ser instalados.
+6)	Cada canal de venta debe llevar un responsable asignado dentro del canal.
+7)	Cada iniciativa debe ser cambiada manualmente a oportunidad.
+8)	El laboratorio fue correctamente explicado por el docente.
+9)	El cambio de lenguaje para este laboratorio fue algo complicado ya que no todos los botones tenían una correcta traducción o simplemente estaban posicionados en otras zonas debido a la versión de Odoo.
+10)	En este laboratorio se ve cómo es que Odoo hace que cada uno de sus módulos interactúen entre si de alguna manera en específico.
