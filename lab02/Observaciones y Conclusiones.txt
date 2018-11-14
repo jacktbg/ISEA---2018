@@ -1,0 +1,10 @@
+1)	Aprendimos la importancia de los filtros en la barra de búsqueda, activamos el modo desarrollador a través de la interfaz de configuración en Odoo.
+2)	Accediendo al modo administrador en un cmd implementamos un módulo desde cero en Odoo.
+3)	A través del archivo manifest.py se cambió el autor, la dirección web y la descripción y al actualizar la vista del módulo creado se denotan los cambios.
+4)	El archivo __manifest__.py Sirve para declarar un paquete de Python como un módulo de Odoo y para especificar los metadatos del módulo.
+5)	Las ventajas de crear un nuevo módulo es que puedes modificar absolutamente todo ya sea desde los archivos o dentro de la interfaz de Odoo.
+6)	El laboratorio fue comprensible en su totalidad.
+7)	El docente explico las dudas obtenidas en el laboratorio.
+8)	La versión del lenguaje no complico nada ya que los botones se encontraban a simple vista.
+9)	La instalación en Windows o ubuntu no diferencia en grado de dificultad.
+10)	Al realizar el proceso por cmd solo estas creando el modulo mas no la instalación de este en Odoo lo cual se hace manualmente.
