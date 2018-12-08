@@ -1,0 +1,391 @@
+LOGO DE LA ORGANIZACION
+	 
+PLAN ESTRATÉGICO DE TECNOLOGÍAS DE INFORMACIÓN PETI
+
+Tabla de Contenido
+1.	INTRODUCCIÓN.	4
+2.	TÉRMINOS TÉCNICOS UTILIZADOS.	5
+3.	PRIMERA PARTE: MARCO ESTRATÉGICO.	6
+3.1.	VISIÓN.	6
+3.2.	MISIÓN.	6
+3.3.	OBJETIVOS.	6
+3.4.	POLÍTICAS.	6
+3.5.	ESTRATEGIAS.	6
+4.	SEGUNDA PARTE: DESARROLLO DEL PLAN ESTRATÉGICO.	7
+4.1.	MODELO DE TECNOLOGÍAS Y SISTEMAS DE INFORMACIÓN.	7
+4.1.1.	ARQUITECTURA DE LOS SISTEMAS.	7
+4.1.2.	TENDENCIA DE LAS TECNOLOGÍAS DE INFORMACIÓN EN LA INDUSTRIA.	7
+4.1.3.	ARQUITECTURA TECNOLÓGICA PARA EL INAMU.	7
+4.2.	ÁREAS DE OPORTUNIDAD.	7
+4.2.1.	REGISTRO Y SEGUIMIENTO  DE  LA ATENCIÓN ESPECIALIZADA DEL INAMU HACIA LAS MUJERES.	7
+4.2.2.	PORTAL DE SERVICIOS A TRAVÉS DE INTERNET.	7
+4.2.3.	DESARROLLO DE UN SISTEMA DE SOPORTE A LA TOMA DE DECISIONES.	7
+4.2.4.	WORK FLOW  Y ARCHIVO ELECTRÓNICO.	¡ERROR! MARCADOR NO DEFINIDO.
+4.2.5.	IMPLEMENTACIÓN DE PROGRAMAS EDUCATIVOS APOYADOS EN TECNOLOGÍAS DE INFORMACIÓN EN ALBERGUES INSTITUCIONALES.	7
+4.2.6.	INTRODUCCIÓN DE TECNOLOGÍAS EMERGENTES.	7
+4.2.7.	SEGURIDAD Y OPERACIÓN CONTINUA DEL NEGOCIO.	7
+4.2.8.	SISTEMA DE INFORMACIÓN GEOGRÁFICO.	7
+4.2.9.	PLANIFICACIÓN.	7
+4.2.10.	COMPUTACIÓN MÓVIL.	7
+4.3.	PORTAFOLIO DE PROYECTOS INFORMÁTICOS.	8
+5.	MODELO ORGANIZATIVO PARA LA FUNCIÓN DE INFORMACIÓN.	9
+5.1.	OBJETIVOS DE LA FUNCIÓN DE TECNOLOGÍA DE INFORMACIÓN.	9
+5.2.	PREMISAS Y LINEAMIENTOS.	9
+5.3.	CARACTERÍSTICAS.	9
+5.4.	MODELO ORGANIZATIVO PROPUESTO PARA LA FUNCIÓN DE T.I.	9
+5.5.	JUSTIFICACIÓN DEL ESQUEMA ORGANIZACIONAL.	9
+5.5.1.	OBJETIVOS DE LA  JEFATURA DE LA UNIDAD.	9
+5.5.2.	OBJETIVOS DEL PROCESO DE DESARROLLO.	9
+5.5.3.	OBJETIVO DEL PROCESO DE ADMINISTRACIÓN DE PROYECTOS.	9
+5.5.4.	OBJETIVOS DEL PROCESO DE SOPORTE TÉCNICO.	9
+6.	PLAN DE CAPACITACIÓN.	10
+7.	FACTORES CRÍTICOS DE ÉXITO.	11
+7.1.	REORGANIZACIÓN.	11
+7.2.	ADMINISTRADORES DE PROYECTO.	11
+7.3.	COMITÉ GERENCIAL  DE TECNOLOGÍAS DE INFORMACIÓN.	11
+7.4.	RECURSOS FINANCIEROS.	11
+7.5.	APOYO.	11
+8.	RIESGOS PARA LA EJECUCIÓN DEL PLAN.	12
+9.	RECOMENDACIONES.	13
+10.	LINEAMIENTOS PARA LA EJECUCIÓN DEL PLAN.	14
+10.1.	RESPONSABILIDAD SOBRE LA ACTUALIZACIÓN DEL PLAN ESTRATÉGICO.	14
+10.2.	PROCEDIMIENTO PARA VALORAR EL LOGRO.	14
+10.3.	SESIONES DE VALIDACIÓN.	14
+10.4.	REUNIONES DE SEGUIMIENTO.	14
+10.5.	INFORMES DE SEGUIMIENTO.	14
+10.6.	DIFUSIÓN DEL PLAN, CAMBIOS Y AVANCES.	14
+10.7.	INTEGRACIÓN CON EL PROCESO DE ADMINISTRACIÓN DE PROYECTOS.	14
+10.8.	RECOPILACIÓN DE INFORMACIÓN HISTÓRICA.	14
+11.	ANEXOS.	15
+ANEXO I:  PORTAFOLIO DE PROYECTO	15
+1.1.	WEB SITE  Y PORTAL DE SERVICIOS DEL INAMU	¡ERROR! MARCADOR NO DEFINIDO.
+1.2.	REGISTRO Y SEGUIMIENTO A LA ATENCIÓN ESPECIALIZADA DEL INAMU HACIA LAS MUJERES	15
+1.3.	SISTEMA DE GESTIÓN INTEGRAL – UNIDAD DE DOCUMENTACIÓN	16
+1.4.	AUTOMATIZACIÓN DE PROCESOS DE LAS UNIDADES	17
+1.5.	DIGITALIZACIÓN DE IMÁGENES	18
+1.6.	SISTEMA DE GESTIÓN DOCUMENTAL: SUBSISTEMA DE CONTROL   DE CORRESPONDENCIA	19
+1.7.	ADMINISTRATIVO FINANCIERO	20
+1.8.	GESTIÓN  E INFRAESTRUCTURA	23
+1.9.	DEFINICIÓN DE PRIORIDADES.	24
+1.10.	ESTIMACIÓN DE TIEMPOS Y COSTOS	25
+1.11.	PROYECCIÓN  ESTIMADA DE LA INVERSIÓN	26
+ANEXO II:  PLAN DE CAPACITACIÓN.	27
+ANEXO III: PROCEDIMIENTO PARA VALORAR EL LOGRO.	27
+
+1.	INTRODUCCIÓN.
+ 
+2.	TÉRMINOS TÉCNICOS UTILIZADOS.
+
+Término	Definición
+ 
+3.	PRIMERA PARTE: MARCO ESTRATÉGICO.
+
+Se presenta a continuación el Marco Estratégico
+3.1.	Visión.
+
+3.2.	Misión.
+
+3.3.	Objetivos.
+
+3.4.	Políticas.
+
+3.5.	Estrategias.
+ 
+4.	SEGUNDA PARTE: DESARROLLO DEL PLAN ESTRATÉGICO. 
+
+4.1.	Modelo de Tecnologías y Sistemas de Información.
+4.1.1.	Arquitectura de los sistemas.
+4.1.2.	Tendencia de las tecnologías de información en la Industria.
+4.1.3.	Arquitectura tecnológica para el INAMU.
+
+4.2.	Áreas de Oportunidad. 
+4.2.1.	Registro y Seguimiento.
+4.2.2.	Portal de servicios a través de Internet. 
+4.2.3.	Desarrollo de un Sistema de Soporte a la Toma de Decisiones.
+4.2.4.	Implementación de programas educativos apoyados en Tecnologías de Información en albergues institucionales.   
+4.2.5.	Introducción de Tecnologías Emergentes.
+4.2.6.	Seguridad y operación continua del negocio.
+4.2.7.	Sistema de Información Geográfico.
+4.2.8.	 Planificación. 
+4.2.9.	Computación Móvil.
+ 
+4.3.	Portafolio de Proyectos Informáticos.
+Proyecto	US Dólares	Colones	 	Inversión Estimada	 
+ 	 	 	Año	Año	Año
+Sistemas de Información					
+Gestión Integral  Unidad de Documentación					
+Automatización de Procesos de las Unidades					
+Digitalización de Imágenes					
+Control de correspondencia					
+Administrativo Financiero					
+Análisis,  levantamiento de requerimientos e identificación de  ajustes del Sistema Requeridos					
+Desarrollo e implementación del Sistema Integrado de Gestión Administrativa: Recursos Humanos, Presupuesto, Contabilidad, Tesorería, Compras, Inventarios, Proveeduría, Servicios Generales					
+Mantenimiento anual 					
+Normas Técnicas CGR					
+Licenciamiento (96,378.71 p/año)					
+Adquisición - Sustitución de equipos  					
+y dispositivos periféricos					
+Adquisición de repuestos					
+Mantenimiento de la Plataforma tecnológica					
+ 					
+Totales					
+ver Detalle en  Anexo I: Cartelera de Proyectos					
+ 
+5.	MODELO ORGANIZATIVO PARA LA FUNCIÓN DE INFORMACIÓN.
+
+5.1.	Objetivos de la Función de Tecnología de Información. 
+5.2.	Premisas y Lineamientos. 
+5.3.	Características. 
+5.4.	Modelo Organizativo Propuesto para la Función de T.I.  
+Muestra de manera gráfica la estructura organizacional propuesta para la Función de Tecnologías de Información.
+5.5.	Justificación del Esquema Organizacional. 
+5.5.1.	Objetivos de la Jefatura de la Unidad.
+5.5.2.	Objetivos del proceso de Desarrollo.
+5.5.3.	Objetivo del proceso de Administración de Proyectos.
+5.5.4.	Objetivos del proceso de Soporte Técnico.
+ 
+6.	PLAN DE CAPACITACIÓN.
+
+El plan de capacitación debe ser un medio para la mejora en las diferentes áreas funcionales que componen la Institución.
+
+•	Integración del Departamento.
+•	Utilización eficiente de métodos y herramientas.  
+•	Aprovechamiento de los servicios contratados. 
+•	Evolución del servicio brindado. 
+•	Retención y atracción de personal. 
+Los cursos que deben ser impartidos a distintos miembros de la Institución se listan en la siguiente tabla:
+
+Nombre del Curso
+Nombre del Curso
+
+7.	Factores críticos de éxito.
+
+A continuación, se presenta un conjunto preliminar de los factores considerados como críticos para el desarrollo satisfactorio de la función informática institucional.
+
+7.1.	Reorganización. 
+7.2.	Administradores de Proyecto.
+7.3.	Comité Gerencial de Tecnologías de Información.
+7.4.	Recursos Financieros.
+7.5.	Apoyo. 
+8.	Riesgos para la ejecución del plan.
+
+Esta sección presenta los riesgos, recomendaciones y los lineamientos básicos para la ejecución del Plan Estratégico.
+ 
+9.	Recomendaciones. 
+
+A continuación se define un conjunto de lineamientos y principios básicos de operación que deben ser contemplados en el desarrollo y/o adquisición de los Sistemas de Información:
+
+10.	Lineamientos para la ejecución del plan.    
+
+El primer paso en el proceso de planeamiento estratégico es lograr interiorizar la Misión, la Visión y la Estrategia del área funcional.  No obstante, es necesario garantizar que este producto se mantenga vigente en función de los cambios en la institución y en el entorno.
+
+En este capítulo se describen los lineamientos considerados como indispensables para lograr la actualización y difusión de este plan estratégico.
+
+10.1.	Responsabilidad sobre la Actualización del Plan Estratégico.
+10.2.	Procedimiento para Valorar el Logro.
+10.3.	Sesiones de Validación.
+10.4.	Reuniones de Seguimiento.
+10.5.	Informes de Seguimiento.
+10.6.	Difusión del Plan, Cambios y Avances.
+10.7.	Integración con el proceso de Administración de Proyectos.
+10.8.	Recopilación de Información Histórica.
+ 
+11.	ANEXOS.
+
+ANEXO I:  Portafolio de Proyecto
+1.1.	REGISTRO Y SEGUIMIENTO 
+Descripción	
+
+Objetivo	
+ 
+Módulos
+Alcances
+Áreas involucradas
+Estimación tiempo
+Estimación de costo
+Estrategia de implantación
+
+1.2.	SISTEMA DE GESTIÓN INTEGRAL – UNIDAD DE DOCUMENTACIÓN
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas	
+Estimación de tiempo	
+Estimación de costo	
+Estrategia de implantación	
+
+1.3.	AUTOMATIZACIÓN DE PROCESOS DE LAS UNIDADES
+Descripción	
+Objetivo	
+Módulos
+
+Alcances	
+Áreas involucradas	
+Estimación tiempo	
+Estimación de costo	
+Estrategia de implantación	
+ 
+1.4.	DIGITALIZACIÓN DE IMÁGENES
+Descripción	
+Objetivo	
+ Módulos	
+Alcances	
+Áreas involucradas	
+Estimación tiempo	
+Estimación de costo	
+Estrategia de implantación	
+ 
+1.5.	SISTEMA DE GESTIÓN DOCUMENTAL: SUBSISTEMA DE CONTROL   DE CORRESPONDENCIA
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas	
+Estimación de tiempo	
+Estimación de costo	
+Estrategia de implantación	
+ 
+1.6.	ADMINISTRATIVO FINANCIERO
+
+Proyecto   Administrativo Financiero y Recursos Humanos
+
+SISTEMA DE RECURSOS HUMANOS
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas	
+Estimación de tiempo	
+Estrategia de implantación	
+ 
+SISTEMA DE CONTABILIDAD
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas  	
+Estimación tiempo	
+Estrategia de implantación	
+
+SISTEMA DE PRESUPUESTO
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas	
+Estimación de tiempo	
+Estrategia de implantación	
+ 
+SISTEMA DE TESORERÍA
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas	
+Estimación de tiempo	
+Estrategia de implantación	
+SISTEMA DE PROVEEDURÍA, COMPRAS E INVENTARIO
+
+Descripción	
+Objetivo	
+Módulos	
+Alcances	
+Áreas involucradas	
+Estimación de tiempo	
+	
+Costo Estimado
+
+Estrategia de implantación	
+ 
+1.7.	GESTIÓN E INFRAESTRUCTURA
+
+1)	SEGUIMIENTO EN LA IMPLANTACIÓN DE LAS NORMAS TÉCNICAS PARA LA GESTIÓN 
+DE TECNOLOGÍAS DE INFORMACIÓN
+2)	PROCESO DE LICENCIAMIENTOS DE USO DE HERRAMIENTAS Y TECNOLOGÍAS DE INFORMACIÓN UTILIZADAS POR LA ORGANIZACIÓN  
+3)	ADQUISICIÓN - SUSTITUCIÓN DE EQUIPOS Y DISPOSITIVOS DE CÓMPUTO PARA LA PLATAFORMA TECNOLÓGICA.
+4)	ADQUISICIÓN DE REPUESTOS PARA REPARAR EQUIPOS DE CÓMPUTO Y DISPOSITIVOS 
+5)	MANTENIMIENTO DE LA PLATAFORMA TECNOLÓGICA: HARDWARE, SOFTWARE Y COMUNICACIONES.  
+ 
+1.8.	DEFINICIÓN DE PRIORIDADES.
+El proyecto de automatización requiere definir prioridades y establecer un tiempo de desarrollo de cada proyecto por parte de la Institución.
+
+Proyecto	Prioridad	Impacto en lograr una modernización	Impacto en proporcionar información oportuna 	Impacto en el ámbito de atención al cliente diferenciación competitiva	Urgencia operativa
+1-	Sistemas de Información
+•	Gestión Integral - Unidad de Documentación
+•	Automatización de Procesos
+•	Digitalización de Imágenes
+•	Control de Correspondencia					
+2-	 Administrativo Financiero
+•	Análisis y levantamiento de requerimientos
+•	Recursos Humanos
+•	Contabilidad
+•	Presupuesto
+•	Tesorería
+•	Proveeduría Compras e Inventarios
+•	Servicios Generales					
+3-	 Normas Técnicas CGR					
+4-	 Licenciamiento					
+5-	Adquisición Sustitución de equipos y dispositivos periféricos					
+6-	Adquisición de Repuestos					
+7-	Mantenimiento de la Plataforma tecnológica, Hardware, Software y Sistemas de Información					
+ 
+1.9.	ESTIMACIÓN DE TIEMPOS Y COSTOS
+La siguiente tabla muestra la estimación de tiempo y costos para el desarrollo de cada uno de los proyectos propuestos en este plan.  
+Proyecto	Inversión US Dólares	Tiempo meses
+1.	Sistemas de Información
+•	Gestión Integral - Unidad de Documentación
+•	Automatización de Procesos
+•	Digitalización de Imágenes
+•	Control de Correspondencia		
+2.	 Administrativo Financiero
+•	Análisis y levantamiento de requerimientos
+•	Recursos Humanos
+•	Contabilidad
+•	Presupuesto
+•	Tesorería
+•	Proveeduría Compras e Inventarios
+•	Servicios Generales		
+3.	 Normas Técnicas CGR		
+4.	 Licenciamiento		
+5.	Adquisición - Sustitución de equipos y dispositivos periféricos		
+6.	Adquisición de Repuestos		
+7.	Mantenimiento de la Plataforma tecnológica, Hardware, Software y Sistemas de Información		
+Totales		
+
+
+En estos costos no se contemplan los recursos humanos de las áreas usuarias, necesarios para la implantación de cada sistema.
+ 
+1.10.	PROYECCIÓN  ESTIMADA DE LA INVERSIÓN
+Proyecto	US Dólares	Colones	 	Inversión Estimada	 
+ 	 	 	Año	Año	Año
+Web Site y Portal de servicios					
+Sistemas de Información					
+Gestión Integral  Unidad de Documentación					
+Automatización de Procesos de las Unidades					
+Digitalización de Imágenes					
+Control de correspondencia					
+Administrativo Financiero					
+Análisis,  levantamiento de requerimientos e identificación de  ajustes del Sistema Requeridos					
+Desarrollo e implementación del Sistema Integrado de Gestión Administrativa: Recursos Humanos, Presupuesto, Contabilidad, Tesorería, Compras, Inventarios, Proveeduría, Servicios Generales					
+Mantenimiento anual 					
+Normas Técnicas CGR					
+Licenciamiento (p/año)					
+Adquisición - Sustitución de equipos  					
+y dispositivos periféricos					
+Adquisición de repuestos					
+Mantenimiento de la Plataforma tecnológica					
+ 					
+Totales					
+A continuación, se presenta una tabla con la proyección estimada de la inversión, contemplando el período de ejecución del Plan
+ 
+ANEXO II:  Plan de capacitación.
+Este plan de capacitación comprende la descripción de los cursos básicos que deben ser impartidos al personal de Tecnologías de Información, así como a otros funcionarios de la Institución que de una u otra manera participan en el uso e incorporación de tecnologías de información como apoyo a sus funciones.  
+ANEXO III: Procedimiento para Valorar el Logro.
+El primer paso en este procedimiento es la identificación y valoración de las variables que inciden en la percepción de la importancia relativa de los diferentes proyectos que enfrenta la Institución.  

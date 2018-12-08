@@ -1,0 +1,132 @@
+PLAN ESTRATÉGICO DE TECNOLOGÍAS DE LA INFORMACIÓN (PETI)
+
+¿QUE ES UNA ESTRATEGIA DE TECNOLOGIA DE INFORMACION?
+
+Una Estrategia de TI considera los cambios por los cuales atraviesa una organización - tanto internos como externos - junto con las oportunidades potenciales disponibles a esta. 
+Las oportunidades de TI pueden incluir formas de usar la tecnología para ganar una ventaja competitiva, para reducir costos, aumentar ingresos, etc. 
+Las oportunidades de TI se sopesan contra las fortalezas y debilidades del entorno de TI actual - tanto tecnológico como organizacional - para establecer la estrategia 
+de TI que se adoptará.
+Una Estrategia de TI despliega las directrices generales que se seguirán, la arquitectura de TI necesaria para alcanzar la estrategia y los proyectos específicos para 
+implementar la arquitectura y las oportunidades de TI. 
+La estrategia también presenta el grado de cambio requerido en la organización del área de TI: visión de TI, estilo, estructura, capacidades y competencias del 
+personal, habilidades, procesos, que serán necesarios para lograr la estrategia.
+
+¿POR QUE DESARROLLAR UNA ESTRATEGIA DE TI?, ¿POR QUE DEBE UNA EMPRESA ACOMETER EL DESARROLLO DE UNA ESTRATEGIA DE TI?
+
+Las razones incluyen:
+
+-	Nuevo Liderazgo: Un nuevo Presidente, Gerente Financiero o Gerente de Informática desea contar con un mapa del camino a seguir.
+-	Brecha de Desempeño: Se reconoce, generalmente por parte de la Dirección del negocio, que el desempeño de la TI requiere mejoramiento.
+-	Cambio Tecnológico: La empresa requiere de una nueva arquitectura para acomodar el crecimiento de nuevas tecnologías.
+-	Cambio Organizacional: La función de TI requiere un cambio debido a una reorganización, una fusión o una reducción.
+
+PLAN ESTRATÉGICO DE TECNOLOGIAS DE LA INFORMACION
+
+El Plan Estratégico de Tecnologías de la Información tiene como objetivo la obtención de un marco de referencia para el desarrollo de la plataforma informática, que responda
+a los objetivos estratégicos de la organización. Este marco de referencia consta de:
+
+-	Una descripción de la situación actual, que constituirá el punto de partida del PETI. 
+  Dicha descripción incluirá un análisis técnico de puntos fuertes y riesgos, así como el análisis de servicio a los objetivos de la organización.
+-	Un conjunto de modelos que constituya la arquitectura de informática.
+-	Una propuesta de proyectos a desarrollar en los próximos años, así como la prioridad de realización de cada proyecto.
+-	Una propuesta de calendario para la ejecución de dichos proyectos.
+-	La evaluación de los recursos necesarios para los proyectos a desarrollar en el próximo año, con el objetivo de tenerlos en cuenta en los presupuestos. 
+  Para el resto de proyectos, bastará con una estimación de alto nivel.
+-	Un plan de seguimiento y cumplimiento de todo lo propuesto mediante unos mecanismos de evaluación adecuados.
+
+La perspectiva del plan debe ser estratégica y operativa, no tecnológica.
+
+Para elaborar el Plan de TI de una empresa no sólo debe conocerse lo que hace la empresa - que procesos existen y como opera - si no también, conocer los objetivos y estrategias 
+que llevan a la organización a un nuevo posicionamiento.
+
+Cuando se elabora un plan para la incorporación de las tecnologías de la información debemos considerarlo en dos planos, uno el Plan Estratégico del área funcional responsable 
+de las tecnologías de la información (Departamento de Informática) y el otro, el Planeamiento de la Arquitectura de Información (Sistemas de información y Bases de datos) y 
+su soporte en una arquitectura tecnológica (Hardware, Software y Redes de comunicaciones).
+
+PLAN ESTRATEGICO DEL DEPARTAMENTO DE INFORMATICA
+
+Comprende el desarrollo de un proceso de planeamiento formal donde se determina o redefine la misión y objetivos del área de tecnologías de la información, 
+proporcionándole un rol como agente de cambio. Se identifican factores críticos de éxito para que cumpla con su rol, se identifican los principales problemas que impiden 
+una adecuada operatividad del servicio y un análisis de sus fortalezas y debilidades. Con estos elementos se determina un conjunto de proyectos de corto, mediano y largo 
+plazo que permitan que ésta área brinde un óptimo servicio informático hoy y en los próximos años.
+
+PLANEAMIENTO DE LA ARQUITECTURA DE LA INFORMACION
+Comprende el análisis de las siguientes arquitecturas:
+
+-	La Arquitectura de Procesos: Conjunto de procesos, subprocesos y actividades que se realizan en la organización, se analiza “el que” se hace y no se llega al nivel del “como” 
+  se hace (procedimientos). Esto permite conocer el negocio y analizar los procesos a fin de sugerir su rediseño luego de determinar la permanencia de aquellos procesos que dan 
+  un valor agregado al servicio que brinda la organización. Se identifican también los requerimientos de información de cada proceso para su óptima ejecución, obteniéndose el 
+  Modelo del Negocio.
+-	La Arquitectura de Datos: A partir de los requerimientos de información de los procesos  se determinan los sujetos o eventos denominados “entidades” sobre las cuales alguna 
+  actividad requiere información, generándose el Modelo Corporativo de Datos (diagrama entidad-relación); así mismo pueden elaborarse modelos de datos funcionales. Las entidades
+  se agrupan por afinidad con el fin de definir Bases de Datos  operativas y derivadas que conformarán la arquitectura de datos de la organización.
+-	La Arquitectura de Sistemas de Información: De la arquitectura de procesos se identifican los procesos sujetos de soporte con tecnologías de la información y se derivan sistemas 
+  y subsistemas de información. Los sistemas de información deben ser priorizados teniendo en cuenta su contribución al cumplimiento de las estrategias empresariales y el beneficio 
+  que reportarán a la organización, consiguiéndose una cartera de proyectos de sistemas de información estratégicos.
+-	Arquitectura Tecnológica: Está compuesta por el software, hardware y redes de comunicaciones que soportarán a los sistemas de información  y bases de datos definidos en las 
+  arquitecturas correspondientes. Se debe realizar un planeamiento de la capacidad considerando la carga actual y lo considerado en la arquitectura de información. El planeamiento 
+  estará orientado a colocar la información en el lugar que se necesita para la persona que la necesita en la oportunidad y calidad debida y sugerir las características de una 
+  arquitectura centralizada, distribuida o híbrida así como la cantidad y capacidad de equipos, servidores y redes de comunicaciones. Algunos procesos serán soportados por 
+  automatización de procesos, Internet, comercio electrónico y sistemas organizacionales.
+
+Finalmente se elaboran planes de trabajo de corto, mediano y largo plazo aplicándose metodologías adecuadas de estimación de tiempos y del recurso de personal. 
+Así mismo se incluyen los proyectos relacionados a la adquisición de software y hardware. Se elabora un calendario de proyectos con una planificación lo más detallada posible 
+de los más inmediatos. Además, se propone una sistemática para mantener actualizado el PETI para incluir en él todos los cambios necesarios, garantizando su adecuado cumplimiento.
+
+BENEFICIOS DE UN PETI
+
+-	Posiciona a TI para hacer una "contribución" estratégica al negocio y a las principales directrices estratégicas de la compañía.
+-	Alinea a TI con la Dirección del negocio de tres maneras:
+-	Logra la coordinación, perseverancia y concentración de los esfuerzos de TI hacia un conjunto de metas y objetivos compartidos del negocio.
+-	Alinea el uso y directrices de TI de cada departamento entre sí.
+-	Alinea la TI con las necesidades de los clientes externos.
+-	Crea consenso y compromiso con el plan porque todos los afectados o implicados -- departamentos y TI -- se involucran en el proceso.
+-	Establece una mentalidad de planeación estratégica de TI en la cultura de la organización.
+-	Proporciona un mapa para desplegar le estrategia y alcanzar el éxito.
+-	Crea una dinámica que impulsa la implementación del plan y la realización del valor esperado de TI.
+
+
+MODALIDAD DE TRABAJO PARA FORMULAR EL PLAN ESTRATEGICO DE TI
+
+DESARROLLO PROPIO
+Si la organización cuenta con personas capacitadas en la metodología de planeamiento de TI y con la experiencia necesaria para desarrollar este proyecto, es posible realizar 
+un desarrollo propio con la condición que las personas que formarán parte del equipo de formulación se dediquen a tiempo completo y dedicación exclusiva esta labor. 
+Está condición se constituye en el principal impedimento para que un desarrollo propio tenga éxito, ya que como suele suceder las personas que podrían aportar al proyecto, se
+encuentran ocupadas a tiempo completo por sus labores habituales, siendo muy difícil asignar sus tareas a otras personas, lo que implica que no se le brinde el tiempo y 
+dedicación necesarias a las labores de planeamiento.
+
+Esta limitante hace muy difícil afrontar este proyecto con personal propio, especialmente en organizaciones pequeñas y medianas donde el recurso humano es generalmente escaso.
+
+CONSULTORIA EXTERNA
+Una alternativa para el desarrollo del PETI es contar con el apoyo de una Consultoría externa que trabaje en conjunto con el personal de la organización en la formulación Plan. 
+Ya sea en la modalidad de gabinete, en la cual la consultoría asume las tareas de planeamiento apoyada en el personal de la organización, o bajo la modalidad de talleres, en 
+la cual la consultoría es un facilitador para que el personal pueda formular con éxito el PETI, la ventaja que se obtiene con una Consultoría, es que no sólo aseguran la obtención 
+final del Plan requerido sino que también dejan al personal involucrado debidamente capacitado y entrenado para asumir las funciones de seguimiento y mantenimiento del plan, así  
+como para futuras reformulaciones.
+
+PASOS A SEGUIR
+-	Obtención de la aprobación de la Alta Dirección para la formulación del Plan Estratégico de TI.
+-	Elaboración de los Términos de Referencia  para la contratación de una Consultoría externa.
+-	Designación del Comité Especial para el proceso de selección de una empresa consultora especializada en estrategias de TI.
+-	Proceso de selección de la empresa consultora
+-	Ejecución del proyecto.
+
+¿POR QUE ES IMPORTANTE EL PLAN ESTRATEGICO DE TI (PETI)?
+
+Toda organización se sienta en tres grandes componentes: personas, procesos y tecnologías. La tecnología que más usa una organización para su gobierno y acumulación y generación de 
+valor a sus clientes es la tecnología de información. Es inconcebible hacer negocios hoy en día sin el uso intensivo de tecnologías de información y comunicaciones (TICs), siendo 
+algunos nichos de negocio más dependientes que otros de estas, como en el caso del negocio financiero, servicios públicos, y otros;  en los cuales el dinero se ha virtualizado.
+Las instituciones financieras en general trafican con información en extensas redes de información como los puntos de ventas, tarjetas de créditos, cuentas de compensación, remesas
+nacionales e internacionales etc.; en sustitución de la transferencia física del dinero.
+
+En este contexto es comprensible que las estrategia de desarrollo de las TICs sea crucial para cualquier empresa sea pública o privada. En el caso de las empresas públicas a las que
+se les exige y vigila con más dedicación que se desenvuelvan en un entorno altamente competitivo,  y que se orienten a una cultura organizacional de excelencia para dar respuesta a 
+demandas de valor agregado económico y social; el PETI no sólo es una formalidad técnica normativa. Es un instrumento que sustenta el plan de inversiones en TI, sustrayéndolos a los 
+caprichos de las administraciones de turno y la garantía al ciudadano de un plan coherente y razonado de adquisiciones.
+
+El PETI es el documento de gestión que orienta el desarrollo de las TICs en cualquier empresa, a fin de que en la ejecución de un portafolio de proyectos informáticos estratégicos 
+soporte a la organización en su meta de realizar la visión/misión que se propone.
+
+El PETI parte de un diagnóstico de la arquitectura actual de las TICs, para luego proponerse una arquitectura deseada a implementarse a futuro en consonancia con la arquitectura de 
+negocios futura a implementarse como consecuencia de la realización de la visión/misión del Banco. Pero fundamentalmente el PETI es un Plan de Acción, Hoja de Ruta o Pasos ordenados 
+y estructurados que permiten en un cierto horizonte de tiempo implementar una arquitectura de TI deseada para soportar los objetivos estratégicos de la organización.

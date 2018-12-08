@@ -1,0 +1,12 @@
+1)Usamos los videos como referencia para crear el modulo matricula.
+2)Es importante determinar los modelos a usar en model.py ya que estas son como las rutas.
+3)En si las vistas se cambian en la carpeta views pero parte de las etiquetas tambien se cambia en models.py.
+4)Yo use el instructivo del lab 02 para la creacion del modulo ya que la del video no me funciono.
+5)Al realizar la Plantilla PETI nos dimos cuenta de la importancia de la documentacion en un proyecto.
+6)El profesor explico a detalle el laboratorio por lo que no hubo inconvenientes.
+7)El nivel de dificultad para implementar el modulo en windows y linux es el mismo no varia.
+8)PETI viene a ser el Plan Estrategico de Tecnologias de Informacion que una empresa u organizacion aplica en su área de TI para beneficio de la empresa.
+9)Las ventajas de aplicar PETI es el hecho de obtener una ventaja competitiva, reducir costos, aumentar ingresos.
+10)Cada punto estalecido en el documento PETI determina una parte del proyecto a realizar o remodelacion a realizar.
+11)Si alguno de los puntos no es completamente claro este afecta a los demas puntos ya sean anteriores o posteriores ya que afecta a las tablas en s'i.
+12)Todas las empresas grandes deberian realizar un PETI ya que no solo beneficia a la empresa en cuanto oportunidades sino que se minimizan riesgos y maximizas ganancias.
